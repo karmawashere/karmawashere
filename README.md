@@ -59,7 +59,7 @@ Easy.MouseButton1Down:connect(function()
 		local ohString1 = "karma has beaten nogames shit fucking anticheat nice try renaming the remote faggot imagine being a pedo faggot kys"
 		local ohColor32 = Color3.new(1, 1, 1)
 
-		game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.reskinremote:FireServer(ohString1, ohColor32)
+		game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.ghewfa:FireServer(ohString1, ohColor32)
 	end
 end)
 
@@ -78,7 +78,7 @@ Easy2.MouseButton1Down:connect(function()
 	local ohString1 = "nogame has beaten the slaves on the field cuz hes a racist pedo nigger"
 	local ohColor32 = Color3.new(1, 1, 1)
 
-	game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.reskinremote:FireServer(ohString1, ohColor32)
+	game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.ghewfa:FireServer(ohString1, ohColor32)
 end)
 
 Easy3.Name = "Easy3"
@@ -96,5 +96,5 @@ Easy3.MouseButton1Down:connect(function()
 	local ohString1 = "Kxarma on top kiddos! :)"
 	local ohColor32 = Color3.new(1, 1, 1)
 
-	game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.reskinremote:FireServer(ohString1, ohColor32)
+	game:GetService("ReplicatedStorage").TheEventLocation.Internalsa1235.ghewfa:FireServer(ohString1, ohColor32)
 end)
